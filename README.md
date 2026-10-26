@@ -1,4 +1,9 @@
-## Hi there 👋
+## 👋Hi, I'm Tuna.
+
+I graduated in Management Information Systems and I'm studying at 42 Kocaeli. I'm interested in infrastructure and cloud: Linux, networking, and automation.
+
+Currently learning: Linux, Bash, networking, C
+Next: Docker, Kubernetes, AWS
 
 <!--
 **tunadayan/tunadayan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
